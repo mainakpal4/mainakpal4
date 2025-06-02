@@ -2,7 +2,8 @@
 <h3 align="center">A passionate learner, developer and future tech leader</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%7C+ML+%7C+Web+Dev+%7C+Finance+Enthusiast;Building+cool+projects...;Lifelong+learner;Art +Music&center=true&width=440&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%7C+ML+%7C+Web+Dev+%7C+Finance+Enthusiast;Building+cool+projects...;Lifelong+learner&center=true&width=440&height=45" />
+
 </p>
 
 ---
@@ -25,10 +26,15 @@
   <img src="https://img.shields.io/badge/Java-%2314354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-%2314354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/HTML-%2320232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/CSS-%2320232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Flask-%23000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine Learning-%2320232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <p>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-%23F7931E?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-%2300485F?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
 <!--   <img src="https://img.shields.io/badge/FastAPI-%2300C7B7?style=for-the-badge&logo=fastapi&logoColor=white"/> -->
   
 <!--   <img src="https://img.shields.io/badge/SpringBoot-%236DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
@@ -58,8 +64,8 @@
 
 ### 📫 Let's Connect
 
-- 🌐 Portfolio: [my-portfolio-link.com]([https://mainak-portfolio-git-main-mainak-pals-projects.vercel.app/])
-- 💼 LinkedIn: [linkedin.com/in/MainakPal]([https://www.linkedin.com/in/mainak-pal-abcdefg/])
+- 🌐 Portfolio: [mainak-portfolio-git-main-mainak-pals-projects.vercel.app]([https://mainak-portfolio-git-main-mainak-pals-projects.vercel.app/])
+- 💼 LinkedIn: [linkedin.com/in/mainak-pal-abcdefg]([https://www.linkedin.com/in/mainak-pal-abcdefg/])
 - 📧 Email: palmainakmax@gmail.com
 
 ---
