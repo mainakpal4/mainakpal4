@@ -23,14 +23,14 @@
 
 <p>
   <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-%2314354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-%2314354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <p>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white"/>
+    
   <img src="https://img.shields.io/badge/Machine%20Learning-%23F7931E?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-%2300485F?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
@@ -64,8 +64,8 @@
 
 ### 📫 Let's Connect
 
-- 🌐 Portfolio: [mainak-portfolio-git-main-mainak-pals-projects.vercel.app]([https://mainak-portfolio-git-main-mainak-pals-projects.vercel.app/])
-- 💼 LinkedIn: [linkedin.com/in/mainak-pal-abcdefg]([https://www.linkedin.com/in/mainak-pal-abcdefg/])
+- 🌐 Portfolio: [mainak-portfolio](https://mainak-portfolio-git-main-mainak-pals-projects.vercel.app/)
+- 💼 LinkedIn: [mainak-pal-abcdefg](https://www.linkedin.com/in/mainak-pal-abcdefg/)
 - 📧 Email: palmainakmax@gmail.com
 
 ---
