@@ -2,7 +2,7 @@
 <h3 align="center">A passionate learner, developer and future tech leader</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%7C+ML+%7C+Web+Dev+%7C+Finance+Enthusiast;Building+cool+projects...;Computer-Vision;Lifelong+learner&center=true&width=440&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%7C+ML+%7C+BlockChain+WebDev+%7C+Finance+Enthusiast;Building+cool+projects...;Computer-Vision;Lifelong+learner&center=true&width=440&height=45" />
 
 </p>
 
